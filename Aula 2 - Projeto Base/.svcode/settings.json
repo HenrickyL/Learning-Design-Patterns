@@ -4,6 +4,7 @@
     },
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true,
-        "source.fixAll": true
-      },
+        "source.fixAll": true,
+        "format_on_save": true
+      }
 }
