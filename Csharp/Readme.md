@@ -1,8 +1,12 @@
 # Learning Design Pattern in CSharp
 
-* **Design Pattern:** São soluções generalistas pra problemas recorrentes.
+* `dotnet new console -n NomeDoProjeto`
 
-## Book: Desgin Pattern - elements of reusable software - Gamma (1995, Gof)
+* **Design Pattern:** São soluções generalistas pra problemas recorrentes.
+* Conceito de Design pattern nasceu na arquitetura com *Christopher Alexander* nos anos 70.
+* 
+## Book: Desgin Pattern - elements of reusable software - Gamma (1995, Gang of Four - Gof)
+
 
 ## Roadmap
 
@@ -45,5 +49,12 @@
     Relacionamento de uma classe geral e específica
 
 ### Interfaces
+----
+
+## Patterns
+
+* [Creational](1-creational/Readme.md)
+
+
 
 [reference](https://www.youtube.com/watch?v=1Z8oiIA_L28&list=PLJ4k1IC8GhW1L7fOWe238fetknEfBmG1I)

@@ -1,0 +1,9 @@
+# Ignorar todas as pastas .vs
+.vs/
+.svcode/
+
+# Ignorar todas as pastas bin
+bin/
+
+# Ignorar todas as pastas obj
+obj/
