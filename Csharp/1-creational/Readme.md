@@ -12,6 +12,15 @@ Um Factory é um objeto utilizado para criar outros objetos.
 
 ![](../../img/simple-factory.png)
 
+#### Exemplo:
+* Sem simple factory
+![](../../img/sf-1.png)
+
+* Com simple factory
+![](../../img/sf-2.png)
+
+
+
 ### Gof - Factory Method
 ### Gof - Abstract Factory
 
